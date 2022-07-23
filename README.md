@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/ozeechristine/Testimonial-Grid-Section-Solution)
 - Live Site URL: (https://ozeechristine.github.io/Testimonial-Grid-Section-Solution/)
 
 
